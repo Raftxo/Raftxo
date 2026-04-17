@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+    </p>
 
 <!--
 **Raftxo/Raftxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
