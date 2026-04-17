@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-blue" />
   <img src="https://img.shields.io/badge/Location-Madrid-red" />
+  <a href="https://www.linkedin.com/in/rafael-wysocki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
