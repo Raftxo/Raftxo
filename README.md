@@ -1,10 +1,10 @@
-## Hi there 👋
+<h1>Hi there 👋</h1>
 
-    <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
-    </p>
+</p>
 
 <!--
 **Raftxo/Raftxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
