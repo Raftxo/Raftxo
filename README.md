@@ -8,19 +8,22 @@
 
 ---
 
+
 ## 🧠 About Me
 
 - 🌱 Currently learning web development at Serprofés (Madrid)
-- 🐍 Basic Python knowledge
-- 🎵 Music programmer (Ableton)
+- 🐍 Basic knowledge of Python
+- 🎵 Music programmer using Ableton
 - 🎯 Focused on improving as a frontend developer
+- 🐳 Currently attending the "DevOps with Docker" MOOC by the University of Helsinki <a href="https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker-spring-2026/chapter-2/definitions-and-basic-concepts">🔗</a>
+
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,py,docker" />
 </p>
 
 ---
@@ -33,12 +36,12 @@
 
 ---
 
-## 📈 Currently
+<!-- ## 📈 Currently
 
-- Attending DevOps with Docker University of Helsinki MOOC. <a href="https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker-spring-2026/chapter-2/definitions-and-basic-concepts">🔗</a>
+- Currently attending the "DevOps with Docker" MOOC by the University of Helsinki. 
 - Learning JavaScript deeper
 - Building small web projects
-- Improving Git workflow
+- Improving Git workflow -->
 
 <!--
 **Raftxo/Raftxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
