@@ -35,6 +35,7 @@
 
 ## 📈 Currently
 
+- Attending DevOps with Docker University of Helsinki MOOC. <a href="https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker-spring-2026/chapter-2/definitions-and-basic-concepts">🔗</a>
 - Learning JavaScript deeper
 - Building small web projects
 - Improving Git workflow
