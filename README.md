@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,py,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,py,docker" />
 </p>
 
 ---
