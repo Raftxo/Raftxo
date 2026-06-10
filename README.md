@@ -15,7 +15,7 @@
 - 🐍 Basic knowledge of Python
 - 🎵 Music programmer using Ableton
 - 🎯 Focused on improving as a frontend developer
-- 🐳 Currently attending the "DevOps with Docker" MOOC by the University of Helsinki <a href="https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker-spring-2026/chapter-2/utilizing-tools-from-the-registry#34a3a125-a9a1-5e8e-a6fd-9492c8f182d8">🔗</a>
+- 🐳 Currently attending the "DevOps with Docker" MOOC by the University of Helsinki <a href="https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker-spring-2026/chapter-3">🔗</a>
 
 
 
